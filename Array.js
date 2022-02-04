@@ -84,9 +84,9 @@
 
 //-------------------------------------------------------------------------------------------
 //  key Method 
-const friendsArray = [ 'Shubham', 'Sheba', 'Omar', 'Rajat', 'Shreya']; 
-const keyMethod = friendsArray.keys()
-console.log(keyMethod);
+//const friendsArray = [ 'Shubham', 'Sheba', 'Omar', 'Rajat', 'Shreya']; 
+//const keyMethod = friendsArray.keys()
+//console.log(keyMethod);
 
 
 // const friendsArray = {
